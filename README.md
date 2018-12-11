@@ -1,2 +1,1 @@
-# Innovation-Project
-Trainfitters app
+# Trainfitters
